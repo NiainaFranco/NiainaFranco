@@ -1,8 +1,6 @@
 ## <center>Niaina Franco</center>
 # <center>Software Developer</center>
-This is a new account, all my old works are available at 
-
-"""https://github.com/HidDen-MaChinA"""
+This is a new account, all my old works are available at https://github.com/HidDen-MaChinA
 
 <!--
 **NiainaFranco/NiainaFranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
